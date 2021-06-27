@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2021-06-26T12:40:23.575Z</updated>
+  <updated>2021-06-27T11:31:50.891Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>极限与连续</title>
+    <link href="http://example.com/2021/06/27/%E6%9E%81%E9%99%90%E4%B8%8E%E8%BF%9E%E7%BB%AD/"/>
+    <id>http://example.com/2021/06/27/%E6%9E%81%E9%99%90%E4%B8%8E%E8%BF%9E%E7%BB%AD/</id>
+    <published>2021-06-27T11:24:20.000Z</published>
+    <updated>2021-06-27T11:31:50.891Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="一、函数"><a href="#一、函数" class="headerlink" title="一、函数"></a>一、函数</h1><ol><li><p>函数、反函数、复合函数</p></li><li><p>单调性</p></li></ol><h1 id="二、极限"><a href="#二、极限" class="headerlink" title="二、极限"></a>二、极限</h1><h6 id="1-定义"><a href="#1-定义" class="headerlink" title="1.定义"></a>1.定义</h6><p>​        极限：<img src="I:%5CTypora%5Cimage%5Cimage-20210320154554568.png" alt="image-20210320154554568" style="zoom: 50%;" /></p><p>​    2.notes</p><p>​        1.<img src="I:%5CTypora%5Cimage%5Cimage-20210320155739095.png" alt="image-20210320155739095" style="zoom:50%;" /></p><p>​        2.f(a)与lim(x-&gt;a) f(x)无关</p><p>​        3.去心领域<img src="I:%5CTypora%5Cimage%5Cimage-20210320160203175.png" alt="image-20210320160203175" style="zoom:50%;" /></p><p>​        4.含指数函数时，要区别左右<img src="I:%5CTypora%5Cimage%5Cimage-20210320160400767.png" alt="image-20210320160400767" style="zoom:50%;" /></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;一、函数&quot;&gt;&lt;a href=&quot;#一、函数&quot; class=&quot;headerlink&quot; title=&quot;一、函数&quot;&gt;&lt;/a&gt;一、函数&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;函数、反函数、复合函数&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;单调性&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 </summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>test_my_site</title>
